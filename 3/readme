@@ -1,0 +1,1 @@
+shell command: sed -f commands.sed test.file > out.out
